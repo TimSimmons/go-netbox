@@ -19,7 +19,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/netbox-community/go-netbox/netbox/client"
+	"github.com/timsimmons/go-netbox/netbox/client"
 	"github.com/go-openapi/strfmt"
 	runtimeclient "github.com/go-openapi/runtime/client"
 )
